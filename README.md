@@ -12,4 +12,4 @@
 ![murder_case](https://user-images.githubusercontent.com/73395264/102018855-402c0880-3db3-11eb-8aa7-eee75a47af89.PNG)
 ![murder_rate](https://user-images.githubusercontent.com/73395264/102018866-4fab5180-3db3-11eb-9988-22ba106eaf5d.PNG)
 ![murder_both](https://user-images.githubusercontent.com/73395264/102018874-618cf480-3db3-11eb-86c1-bbbe220bd8a6.PNG)
-![django_covid19_local](https://user-images.githubusercontent.com/73395264/102018885-75d0f180-3db3-11eb-9793-ef478e11ad25.PNG)
+![django_covid19_local](https://user-images.githubusercontent.com/73395264/102019075-9483b800-3db4-11eb-8d2d-0f2f90332c26.PNG)
