@@ -1,4 +1,5 @@
 # polls
+![한양여대](https://user-images.githubusercontent.com/73395264/102309077-5a303b80-3fab-11eb-8322-36fac8f4356f.png)
 ![crime_2019 txt](https://user-images.githubusercontent.com/73395264/102017285-5f259d00-3da9-11eb-8211-3fb8fcb50afe.PNG)
 ![df_crime_2019](https://user-images.githubusercontent.com/73395264/102018593-884a2b80-3db1-11eb-8896-bd772ff26f7e.PNG)
 ![df_crime_2019_norm](https://user-images.githubusercontent.com/73395264/102018633-bc255100-3db1-11eb-8305-736225156ba9.PNG)
